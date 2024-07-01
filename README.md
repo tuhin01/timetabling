@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 Actual repository lives here - https://github.com/jameel-ja/Timetabling
 
 ## Available Scripts
